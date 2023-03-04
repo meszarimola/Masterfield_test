@@ -6,3 +6,4 @@ személy?
 nem
 elvont fogalom?
 no
+állat?
