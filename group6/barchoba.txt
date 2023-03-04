@@ -11,3 +11,4 @@ igen
 háziállat?
 igen (forrósodik :D)
 ugat?
+nem
