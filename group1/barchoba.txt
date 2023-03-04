@@ -4,3 +4,4 @@ Igen
 1 bizonyos tárgy?
 Igen 
 Villamos energia kell a működtetéséhez?
+Nem
