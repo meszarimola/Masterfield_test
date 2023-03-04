@@ -10,3 +10,4 @@ Akkor állat?
 igen
 háziállat?
 igen (forrósodik :D)
+ugat?
