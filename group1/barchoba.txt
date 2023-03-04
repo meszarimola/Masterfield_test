@@ -5,3 +5,4 @@ Igen
 Igen 
 Villamos energia kell a működtetéséhez?
 Nem
+Háztatásban használjuk?
