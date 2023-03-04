@@ -7,3 +7,4 @@ nem
 elvont fogalom?
 no
 állat?
+egen
