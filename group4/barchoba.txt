@@ -4,3 +4,4 @@ ez egy tárgy?
 Igen, minden városban megtalálható.
 ház? :) :)
 közlekedési eszköz?
+VÁLASZ: Nem, közlekedést segítő eszköz :) 
